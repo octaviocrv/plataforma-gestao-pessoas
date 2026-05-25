@@ -1,5 +1,8 @@
 <h1 align="center"> Organo • Gestão de Equipes </h1>
 
+<img width="1334" height="609" alt="image" src="https://github.com/user-attachments/assets/e83aa3d0-7ff6-4836-aef5-9e9031457cc2" />
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
