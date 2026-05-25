@@ -1,29 +1,42 @@
+<h1 align="center"> Organo • Gestão de Equipes </h1>
 
-# ORGANO # - Meus Primeiros Passos com Create React App 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-Este projeto foi iniciado com Create React App.
+> Aplicativo dinâmico para organização e gerenciamento de equipes multidisciplinares em áreas de tecnologia.
 
-# Descrição
-ORGANO é um aplicativo de construção de equipes criado usando React, JavaScript e CSS. Este projeto foi desenvolvido como parte de um curso da Alura com o objetivo de fornecer experiência prática em desenvolvimento web.
+## Sobre o Projeto
 
-# Recursos
--Organize e gerencie equipes de forma eficiente.
--Atribua membros da equipe a diferentes áreas de trabalho.
--Interface intuitiva e amigável para visualização e administração de equipes.
--Facilita a comunicação e colaboração entre os membros da equipe.
+O **Organo** representa um marco importante na minha jornada de aprendizado, sendo o meu **primeiro projeto prático desenvolvido com React**. A aplicação foi estruturada utilizando a ferramenta `Create React App` e teve como foco inicial a transição do ecossistema front-end tradicional para o desenvolvimento baseado em componentes reutilizáveis e estados dinâmicos.
 
-# Como Executar
+Desenvolvido como parte do programa de formação em desenvolvimento web da Alura, o Organo simula um cenário real onde o usuário pode cadastrar, organizar e alocar profissionais em seus respectivos times de tecnologia de forma visual e intuitiva.
 
-Para ver o ORGANO funcionando ao vivo, use o seguinte comando:
-# NPM START #
-Em seguida, abra http://localhost:3000 em seu navegador da web.
+---
 
-Projeto Intro ao React - Figma 
-https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?type=design&node-id=134-143&mode=design&t=sBftl6eOdP1ekglw-0
+## Principais Recursos e Funcionalidades
 
-# Sobre
-Este projeto é minha primeira introdução ao desenvolvimento web usando React, criado com o Create React App. Ele se concentra na organização de equipes em várias áreas de tecnologia e representa uma oportunidade emocionante para aplicar os conceitos aprendidos no curso ao desenvolvimento de aplicativos do mundo real.
+- **Criação de Times Dinâmicos:** Organização e divisão de colaboradores por especialidades ou áreas de atuação.
+- **Gestão de Membros:** Fluxo simplificado para adicionar novos integrantes atribuindo nome, cargo e imagem de perfil.
+- **Interface Baseada em Componentes:** Arquitetura limpa utilizando o poder do React para renderização condicional e reutilização de elementos de interface.
+- **Foco em Experiência do Usuário (UX):** Visualização imediata e centralizada de toda a estrutura organizacional da empresa.
 
-# Créditos
-Este projeto foi desenvolvido como parte de um curso da Alura sobre desenvolvimento web.
-@based on alura react developing with javascript
+---
+
+## Referência de Design (Figma)
+
+A interface e a identidade visual do projeto foram baseadas no protótipo oficial disponibilizado no Figma:
+
+URL do Design: [Projeto Intro ao React - Figma](https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?type=design&node-id=134-143&mode=design&t=sBftl6eOdP1ekglw-0)
+
+---
+
+## Tecnologias Utilizadas
+
+- **React** — Biblioteca JavaScript voltada para a construção de interfaces de usuário reativas baseadas em componentes.
+- **JavaScript (ES6+)** — Lógica de manipulação de estados, passagem de propriedades (Props) e métodos de arrays.
+- **CSS3** — Customização estética do zero para garantir fidelidade ao layout proposto no protótipo.
+
+---
